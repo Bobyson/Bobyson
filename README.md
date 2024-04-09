@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Bobyson Laisharm
-- 👀 I’m interested in becoming a good coder.
-- 🌱 I’m currently learning js at the moment
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 You can reach me @ acntanouba@gmail.com
 
 <!---
