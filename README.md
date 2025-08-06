@@ -14,6 +14,8 @@ My name is Bobyson Laishram, I'm aspiring to be a good Fullstack dev.
 - ✉ **Email:** acntanouba@gmail.com
 - 🖇️ **LinkedIn:** [Bobyson](https://www.linkedin.com/in/bobysonlaish40/)
 - 🐤 **Twitter:** [@borbaey](https://x.com/borbaey)
+
+[![Bobyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobyson)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Bobyson/Bobyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
