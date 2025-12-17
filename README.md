@@ -1,7 +1,7 @@
 ## Hi, there 👋
 
 My name is Bobyson Laishram, I'm aspiring to be a good Fullstack dev.
-- I am currently working as a Junior Frontend dev at [Foxbeta](https://foxbeta.tech/).
+- I am currently working as a SDE at [BOTMantra](https://botmantra.ai/).
 
 ## 🚀 Skills
 
