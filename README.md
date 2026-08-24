@@ -1,6 +1,6 @@
 # Hi, I'm Bobyson 👋
 
-Frontend Developer focused on building clean, scalable, real-world web applications.  
+Software Engineer  
 Currently working with **React, Next.js, TypeScript**, and modern frontend tooling.
 
 ---
@@ -19,31 +19,15 @@ Currently working with **React, Next.js, TypeScript**, and modern frontend tooli
 React · Next.js · TypeScript · Tailwind CSS · ShadCN
 
 **State & Data**  
-Zustand · TanStack Query · Zod
+Zustand · TanStack Query · Redux · Zod
 
 **Backend & Tools**  
-Node.js · REST APIs · Git · GitHub · Docker · Vercel
+Node.js · REST APIs · GraphQL · Git · GitHub · Bitbucket · Docker · Vercel
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 Rental Marketplace (In Progress)
-A real-world rental listing platform featuring multi-step forms, validation, and a modern, responsive UI.
-
-- Next.js (App Router)
-- TypeScript, Zod, TanStack Query
-- Mobile-first and production-focused
-
-🔗 Repo: https://github.com/Bobyson/PROJECT_NAME  
-🔗 Live: https://your-vercel-link
-
----
-
-### 🌦 Weather App (TypeScript)
-Weather application with location search, hourly forecast, and historical weather data.
-
-🔗 Repo: https://github.com/Bobyson/weather-ts
 
 ---
 
